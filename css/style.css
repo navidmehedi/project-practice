@@ -1,0 +1,140 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+header{
+	padding: 10px 0;
+}
+
+
+/*Header Start*/
+
+.container {
+	width: 90%;
+	overflow: hidden;
+	margin: 0 auto;
+	border-bottom: 1px solid #EEF0F3;
+}
+
+.logo {
+	width: 5%;
+	float: left;
+}
+.logo a{
+
+}
+
+.logo a img{
+	width: 100%;
+	margin-top: 10px;
+
+}
+.menu {
+	width: 40%;
+	float: right;
+}
+.menu ul{
+	list-style: none;
+	float: right;
+
+
+}
+.menu ul li{
+	float: left;
+
+
+}
+.menu ul li a{
+	display: inline-block;
+	text-decoration: none;
+	margin: 0 15px;
+	font-size: 18px;
+	color: #0F2656 ;
+	text-transform: capitalize;
+
+}
+.menu ul li:last-child a{
+	margin-right: 0;
+}
+
+.menu ul li a:hover{
+	color: #0C66FF;
+	font-size: 120%;
+}
+
+/*Header End*/
+
+/*body start*/
+
+.image{
+	/*float: left;*/
+	padding-left: 228px ;
+	border-radius: 4px solid ;
+	padding-top: 20px;
+}
+.click{
+	margin-top: 150px;
+	margin-left: 900px;
+}
+
+
+ /*next page*/
+
+ .container2 {
+	width: 60%;
+	overflow: hidden;
+	margin: 10px auto;
+	padding-right: 69px;
+	/*border-bottom: 1px solid #EEF0F3;*/
+}
+
+.logo2 {
+	width: 15%;
+	float: left;
+	padding-left: 140px;
+}
+
+.logo2 a img{
+	width: 100%;
+	margin-top: 5px;
+}
+
+.menu2 {
+	width: 70%;
+	float: right;
+}
+.menu2 ul{
+	list-style: none;
+	/*float: right;*/
+
+
+}
+.menu2 ul li{
+	float: left;
+
+
+}
+.menu2 ul li a{
+	display: inline-block;
+	text-decoration: none;
+	margin: 5px 15px;
+	font-size: 18px;
+	color: black ;
+	/*text-transform: capitalize;*/
+
+}
+.menu2 ul li:last-child a{
+	margin-right: 0;
+}
+
+.menu2 ul li a:hover{
+	color: #BC223C;
+	/*font-size: 120%;*/
+}
+
+/*previous button*/
+
+.click2{
+	margin-top: 150px;
+	margin-left: 900px;
